@@ -1,1 +1,3 @@
 # Education-and-Outcome-Predictor-Group 15
+
+This project explores educational outcomes based on factors such as ...
